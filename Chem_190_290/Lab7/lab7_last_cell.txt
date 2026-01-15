@@ -1,0 +1,4 @@
+import warnings
+warnings.filterwarnings(‘ignore’)
+start_point = np.array([-1,0])
+statistics_test(SGDM,[Mishra,Mishra_grad,start_point,0.001,0.5,1e-5,0.3], 20, [-3.18807092 , 1.75349927])
