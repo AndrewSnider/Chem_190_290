@@ -2,7 +2,7 @@
 **Spring 2026 | UC Merced**
 
 Welcome! 👋  
-This repository is your **home base on JupyterHub** for CHEM 190/290. You’ll find lecture notebooks, labs, homework templates, and project materials used throughout the semester.
+This repository is your home for CHEM 190/290. You’ll find lecture notebooks, labs, homework templates, and project materials used throughout the semester.
 
 ---
 
