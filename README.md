@@ -1,12 +1,12 @@
 # CHEM 190/290 — Data Science in Chemistry  
 **Spring 2026 | UC Merced**
 
-Welcome! 👋  
+Welcome!   
 This repository is your home for CHEM 190/290. You’ll find lecture notebooks, labs, homework templates, and project materials used throughout the semester.
 
 ---
 
-## 📌 What This Course Is About
+##  What This Course Is About
 
 This course is hands-on and project-focused. We’ll learn how to work with **chemical data** using modern data science tools, with an emphasis on:
 
