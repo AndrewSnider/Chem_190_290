@@ -2,7 +2,7 @@
 **Spring 2026 | UC Merced**
 
 Welcome!   
-This repository is your home for CHEM 190/290. You’ll find lecture notebooks, labs, homework templates, and project materials used throughout the semester.
+This repository is your home for CHEM 190/290. You’ll find lecture notebooks, labs, homework templates, and project materials used throughout the semester.  
 
 ---
 
@@ -21,15 +21,16 @@ No prior machine learning experience is required—just curiosity and willingnes
 
 ## 📂 Course Directory Layout
 
-If you are seeing this page, then you are most likely running a personal JupyterHub instance for this course in your browser. Every time you launch an instance (i.e. click on the provided link), the remote course directory maintained by the instructors is synced to ***your personal JupyterHub account*** - this means you are free to edit any notebooks or other files without worrying about affecting other students.  
+If you are seeing this page, then you are most likely running a personal JupyterHub instance for this course in your browser. Every time you launch an instance (i.e. click on the provided link), the remote course directory maintained by the instructors is synced to ***your personal JupyterHub account*** - this means you are free to edit any notebooks or other files without worrying about affecting other students. This is the overall file structure for the course home directory
 
 ```
 .
-├── lectures/    # Lecture content & demos
-├── homework/    # Homework assignments
-├── projects/    # Mini-projects & final project information
-├── data/        # Provided datasets (do not modify)
-└── README.md
+├── Lectures/    # Lecture content & demos
+├── Homework/    # Homework assignments
+├── Projects/    # Mini-projects & final project information
+├── Datasets/    # Course datasets (do not modify)
+├── Chem290Resources.pdf # Short list of programming / data science resourses from previous year
+└── README.md    # This file, essentially course home page
 ```
 
  ***If you accidently delete a file, you can simply close and relaunch the JupyterHub instance***. Any missing files will automatically be added back to your directory. You shouldn't need to create any files yourself (may change when we get to projects), but if you do they will persist in your user directory even after closing and relaunching the instance.
